@@ -1,0 +1,1 @@
+# TextCortex Desktop App Realease
