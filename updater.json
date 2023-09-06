@@ -1,15 +1,15 @@
 {
-  "version": "v0.3.3",
-  "notes": "Test version",
-  "pub_date": "2020-06-22T19:25:57Z",
+  "version": "v0.6.0",
+  "notes": "Beta Version Released",
+  "pub_date": "2023-09-06T19:25:57Z",
   "platforms": {
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ1VCR3RXWnQvL1BBUGlKM2ZkdVZsTlNaUVh2Si9IcVZvSmE3eVJCbXdYaDFXNW9uRjcrZWhUd2VHaHY1cTAwSXhaekRvNGRHV08rMUxnb0RUZDZJMFhveGE4cGwrUlFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjkyODg1MjA5CWZpbGU6VGV4dENvcnRleC5hcHAudGFyLmd6ClNKVHRzTFJoRmtyRXdGQ2k3QUJuMXp4RHhLUDZxQi9XQlkxd0VKaXE1c0FseG1LNnlDdGtuWkpwRXZIN3NhL1ByQ1ZWRkd6TFFjcURncXBYTXN0ekJ3PT0K",
-      "url": "https://github.com/username/reponame/releases/download/v1.0.0/app-x86_64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ1VCR3RXWnQvL0ZNYlhhaVp6N2ZQY012QkRYVkI3bFM4N2JoRElPa01XK2pMMDF0K2FGV3hVU3JBSkI5RzZncHcySnd3WUJ3elovcnZaRWZlK2wxcXBUb3d1eis1NWd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk0MDIxNDU2CWZpbGU6VGV4dENvcnRleC5hcHAudGFyLmd6CjIvTnZqZHlDcG9xMnN0SGpvcHhOM3UyN1hWc1pQRWg3dTJmaVAvQTF2NG9qaUFCOHlLQ2trSzJVcllwVUhYMC9Nb0Z1RXFYRERCY1R4TytTK2pxN0RnPT0K",
+      "url": "https://github.com/yaredtsyg/updater/raw/main/releases/v0.6.0/x86_64/TextCortex.app.tar.gz"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ1VCR3RXWnQvL09yYkFpZHowaUdYTk1hTllsTVdOaTc1RTBvVXAzaXkyUVU0YjN3eTFESHliRGg1MG1oWFhHdEprajVYTU1jdzZuVVFjWWUxT3pzM1cxQWkzYlE2eUFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjkyOTQ5MDY4CWZpbGU6VGV4dENvcnRleC5hcHAudGFyLmd6Cnd5TFdoQWxsMVdzVi9YbVdkQ05FcS92b1oveGxjVmFsU3V3Y2Fsa3BJTXdsUnpXZVhaaEU1VSt4STZqZ1VrcEkwaVk4UFNwaTJoM1psK3dmWG5KTkFnPT0K",
-      "url": "https://github.com/yaredtsyg/updater/raw/main/releases/v0.3.3/TextCortex.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ1VCR3RXWnQvL0ZYdWxNY0x0TTBZU2wvZ0xLRStmTEc5djk5R3JQODB2STNHQVEwR2NRamlkdzZMSXVmZXZzaTNqbXpqZHZlUkxuWkQyMU01amx4UjVyS3haTVFKdnc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk0MDIxMTU4CWZpbGU6VGV4dENvcnRleC5hcHAudGFyLmd6CnoxUVQ1ZnpES1BVNzFZZFdIcS9SR084YXBvVWFXbmoydnFkcWQ1OEFEUVlOMlpaaFQ5bkdWY2xsRmJjWEdveC9Sc01HUmJhbFV3THh3Mm9jbmphS0RRPT0K",
+      "url": "https://github.com/yaredtsyg/updater/raw/main/releases/v0.6.0/aarch64/TextCortex.app.tar.gz"
     },
     "linux-x86_64": {
       "signature": "Content of app.AppImage.tar.gz.sig",
