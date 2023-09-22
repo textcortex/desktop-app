@@ -4,12 +4,12 @@
   "pub_date": "2023-09-06T19:25:57Z",
   "platforms": {
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ1VCR3RXWnQvL0p4VUpiQ3RJa3RyeG1lVVpmeUtOZjU0QzYvcncyRndwNXBwclp4Z3IxVFI0azJmZklEQXhIL1BFelFyV2c0TTJzT084d0FkQjJwZ25qdmVZZDVNMGc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk0NDE1ODgzCWZpbGU6VGV4dENvcnRleC5hcHAudGFyLmd6Ck81ekQxTjhTQUI4VWtybnE3ZzJBcGpLcllpa2VXS3JGaU5HcnhpS3JkbU8rTTlHZUgyTHNIUVBPemovT1VQYVJzZitvM2FpTzNNVjBXeG5UalpXRkRBPT0K",
-      "url": "https://github.com/yaredtsyg/updater/raw/main/releases/v0.6.5/x86_64/TextCortex.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ1VCR3RXWnQvL01oVm5jL2szQ0ExcEhkV1N3SUhwRkloTmVaS0toYU8zS0R5MUhMTlIwbVVGajhwUHRjd0FpNXkwbi8rRnlMWmdhRjd4ODZLMDNibEVlYVN5ZDFiL2c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk1Mzg4OTUwCWZpbGU6VGV4dENvcnRleC5hcHAudGFyLmd6Cjl5bSsrbTZackV6TEpxQ1VSMFgrdkdURHcwRG9IQXlFWTJ0OTFHSjVvamxLbktSRFYvYWRNZEdBSWxpV1FneWg4QW1kU1RFTlE5aDJLZWtHRFM2ekFRPT0K",
+      "url": "https://github.com/yaredtsyg/updater/raw/main/releases/v0.7.8/x86_64/TextCortex.app.tar.gz"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ1VCR3RXWnQvL0NzODZnOUJMektQNW54SzhRQ2FTTzllSlpjdHg4ZmhwRTQ5cngzZnBPMmNWa1NnSXZhY1RrY2JCVWxQem5MSlZYQ3ZYVXFUQU9zRENBWHpyZy9CNVFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk0NDE1NjM5CWZpbGU6VGV4dENvcnRleC5hcHAudGFyLmd6CmdVMS9JVm9xSGI3OVNHMmlCdm11OFMyNHNLeHZ6WFNIRXNjbHZ5cEtITjQyQk1zcXF6RWI2S3VVRmV6WVo3ckd1RmlYeER5c0tPdXhIQ0dDdzlicEJnPT0K",
-      "url": "https://github.com/yaredtsyg/updater/raw/main/releases/v0.6.5/aarch64/TextCortex.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ1VCR3RXWnQvL0xJVGZxTStraTN4dWhjZWp0Z1BBaFpYQzZ4SU82MVdKSUZhbndES0ZxdDk4OWREdWI4RzhJRThmbVB4ME4zRkh2QVRSTmt2ODRzNWkyazUrWExub2dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk1Mzc0ODkyCWZpbGU6VGV4dENvcnRleC5hcHAudGFyLmd6CmhKVEZmaDhsVE5tQ3J3cXVtc2dPdk1oWjU5emZlZFAwNVE1KzhNU0lkVlBNMVZTYmJBTENqTzl5NHF1cHVHTG9DemN2bTZod3lOZklYTUVyQTJiS0J3PT0K",
+      "url": "https://github.com/yaredtsyg/updater/raw/main/releases/v0.7.8/aarch64/TextCortex.app.tar.gz"
     }
   }
 }
