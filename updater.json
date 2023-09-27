@@ -5,11 +5,11 @@
   "platforms": {
     "darwin-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ1VCR3RXWnQvL0RtaksxMmtYQVkvc01pUEpWY011YnQ3aFVsYUcvZTJ3eWluajhkeHhKZzhwRURrQ2JkeXhzeE85M2w4WkRZaHFJKzlmTTNxL2kxMjZHUVhRVGNkdEFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk1NjU5NDM0CWZpbGU6VGV4dENvcnRleC5hcHAudGFyLmd6ClVSYnNqVFFUS016SlZicE9KN2lQS1ArczhNck9tRXVLeHYzeWhES1RJbkk4Vmh5a2QwOVlaeDU0VGhVbnhJTFV5Sy9teDY0eVk2ZGNhajlhajcxcUFnPT0K",
-      "url": "https://github.com/yaredtsyg/updater/raw/main/releases/v0.7.9/universal/TextCortex.app.tar.gz"
+      "url": "https://raw.githubusercontent.com/textcortex/Desktop-app/main/releases/v0.7.9/universal/TextCortex.app.tar.gz"
     },
     "darwin-aarch64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ1VCR3RXWnQvL0RtaksxMmtYQVkvc01pUEpWY011YnQ3aFVsYUcvZTJ3eWluajhkeHhKZzhwRURrQ2JkeXhzeE85M2w4WkRZaHFJKzlmTTNxL2kxMjZHUVhRVGNkdEFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk1NjU5NDM0CWZpbGU6VGV4dENvcnRleC5hcHAudGFyLmd6ClVSYnNqVFFUS016SlZicE9KN2lQS1ArczhNck9tRXVLeHYzeWhES1RJbkk4Vmh5a2QwOVlaeDU0VGhVbnhJTFV5Sy9teDY0eVk2ZGNhajlhajcxcUFnPT0K",
-      "url": "https://github.com/yaredtsyg/updater/raw/main/releases/v0.7.9/universal/TextCortex.app.tar.gz"
+      "url": "https://raw.githubusercontent.com/textcortex/Desktop-app/main/releases/v0.7.9/universal/TextCortex.app.tar.gz"
     }
   }
 }
