@@ -1,15 +1,15 @@
 {
-  "version": "v0.9.3",
+  "version": "v0.9.6",
   "notes": "Beta Version Released",
-  "pub_date": "2023-09-06T19:25:57Z",
+  "pub_date": "2023-11-15T14:35:38.230Z",
   "platforms": {
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ1VCR3RXWnQvL0RNUWNVSVdabEZsWEpNOGxqbit5QTJlZ295a0pqUU1oZnhVZzJKRkNFOTQwcGhlQnlLbGtOem5XZmhBYU9JQytPWW0xTWhrNE81TE9QQmdwOTR6MlFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk3MTgzMTg0CWZpbGU6VGV4dENvcnRleC5hcHAudGFyLmd6Ckl6c1prRmd3V0E1QmJUUkZrTEdhajFNWlBaRHc0UTJaTGZBWExWdzFMaUErMTRpdGdEODF2Q3QxOUNLRHUrS3UyQWJIdUFiY1FvdGlzMFQwUGFtU0NRPT0K",
-      "url": "https://raw.githubusercontent.com/textcortex/Desktop-app/main/releases/v0.9.3/TextCortex.app.tar.gz"
+      "signature": "/Users/yared/Documents/Programing/textCortex/textCortex/src-tauri/target/universal-apple-darwin/release/bundle/macos/TextCortex.app.tar.gz.sig",
+      "url": "https://raw.githubusercontent.com/textcortex/Desktop-app/main/releases/v0.9.6/TextCortex.app.tar.gz"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ1VCR3RXWnQvL0RNUWNVSVdabEZsWEpNOGxqbit5QTJlZ295a0pqUU1oZnhVZzJKRkNFOTQwcGhlQnlLbGtOem5XZmhBYU9JQytPWW0xTWhrNE81TE9QQmdwOTR6MlFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk3MTgzMTg0CWZpbGU6VGV4dENvcnRleC5hcHAudGFyLmd6Ckl6c1prRmd3V0E1QmJUUkZrTEdhajFNWlBaRHc0UTJaTGZBWExWdzFMaUErMTRpdGdEODF2Q3QxOUNLRHUrS3UyQWJIdUFiY1FvdGlzMFQwUGFtU0NRPT0K",
-      "url": "https://raw.githubusercontent.com/textcortex/Desktop-app/main/releases/v0.9.3/TextCortex.app.tar.gz"
+      "signature": "/Users/yared/Documents/Programing/textCortex/textCortex/src-tauri/target/universal-apple-darwin/release/bundle/macos/TextCortex.app.tar.gz.sig",
+      "url": "https://raw.githubusercontent.com/textcortex/Desktop-app/main/releases/v0.9.6/TextCortex.app.tar.gz"
     }
   }
 }
