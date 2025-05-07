@@ -4,12 +4,12 @@
   "pub_date": "2023-11-15T14:35:38.230Z",
   "platforms": {
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ1VCR3RXWnQvL0NqdFM2VTB0d0Jkd1UvelZ6bTNzbE5LVE8zQjMxTFdoZnNtSUw4UzN0eFZzSnhBY2xHUS8xb3p3dUVucXR2VUNFdnNHazRZOENSbE43TGhHYXVXK0FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ1NTkyODM0CWZpbGU6VGV4dENvcnRleC5hcHAudGFyLmd6CmVNMG5qRkZtdGlzSUFMNFc3VlA2aytaUEtreEZMeWxva0x1MTVlcGQrb2lNU3F4M2d6RExzRGwwMzJrc2kyTXhuRGZWTzMvc0t2NStzakcyVVlCWkJnPT0K",
-      "url": "https://raw.githubusercontent.com/textcortex/Desktop-app/main/releases/v1.2.7/TextCortex.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ1VCR3RXWnQvL01EUDQ2SGxIbnMvdjkwRG1NTGhBTXpFVHhtU25vT29zUkRScG5WR013cnNjOGVtYWt1OU5ZKzBGSS9QVkt4YXM5WVowM1dmMnRrYWVCTUFwdnMrZEFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ2NjI2MjAxCWZpbGU6VGV4dENvcnRleC5hcHAudGFyLmd6CmUvR0FvSWZETmV1L1lBSGxueXRlU2IraURmR3RhWmtPVkltS0FmWVRLZHBmZitNamZ6a1h4V0NXT2lRVW50S0RPbFpuQXlqWHZuVE1xVHcwS0xlZENRPT0K",
+      "url": "https://raw.githubusercontent.com/textcortex/Desktop-app/main/releases/v1.2.8/TextCortex.app.tar.gz"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ1VCR3RXWnQvL0NqdFM2VTB0d0Jkd1UvelZ6bTNzbE5LVE8zQjMxTFdoZnNtSUw4UzN0eFZzSnhBY2xHUS8xb3p3dUVucXR2VUNFdnNHazRZOENSbE43TGhHYXVXK0FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ1NTkyODM0CWZpbGU6VGV4dENvcnRleC5hcHAudGFyLmd6CmVNMG5qRkZtdGlzSUFMNFc3VlA2aytaUEtreEZMeWxva0x1MTVlcGQrb2lNU3F4M2d6RExzRGwwMzJrc2kyTXhuRGZWTzMvc0t2NStzakcyVVlCWkJnPT0K",
-      "url": "https://raw.githubusercontent.com/textcortex/Desktop-app/main/releases/v1.2.7/TextCortex.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ1VCR3RXWnQvL01EUDQ2SGxIbnMvdjkwRG1NTGhBTXpFVHhtU25vT29zUkRScG5WR013cnNjOGVtYWt1OU5ZKzBGSS9QVkt4YXM5WVowM1dmMnRrYWVCTUFwdnMrZEFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ2NjI2MjAxCWZpbGU6VGV4dENvcnRleC5hcHAudGFyLmd6CmUvR0FvSWZETmV1L1lBSGxueXRlU2IraURmR3RhWmtPVkltS0FmWVRLZHBmZitNamZ6a1h4V0NXT2lRVW50S0RPbFpuQXlqWHZuVE1xVHcwS0xlZENRPT0K",
+      "url": "https://raw.githubusercontent.com/textcortex/Desktop-app/main/releases/v1.2.8/TextCortex.app.tar.gz"
     }
   }
 }
